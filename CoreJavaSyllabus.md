@@ -1,6 +1,4 @@
-<p align="center" style="margin-bottom: 0px !important;">
-# Core Java Syllabus
-</p>
+<h1 align="center">Core Java Syllabus</h1>
 
 # Basics of Java:
 - Java - What, Where and Why?

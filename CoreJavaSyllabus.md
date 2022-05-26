@@ -1,7 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-
 # Core Java Syllabus
-
 </p>
 
 # Basics of Java:
